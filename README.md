@@ -22,4 +22,4 @@
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/AsmadChiaJeniferDarlyn/LoginIntegrado.git
+   git clone https://github.com/AsmadChiaJeniferDarlyn/login-integrado-divisas-android.git
